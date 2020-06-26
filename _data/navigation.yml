@@ -11,15 +11,11 @@ main:
     
   - title: "Employment"
     url: /employment/
-        
- # - title: "Blog Posts"
- #   url: /year-archive/
   
-   - title: "Resources"
+  - title: "Resources"
     url: /resources/
     
   - title: "CV"
     url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+ 
+ 
