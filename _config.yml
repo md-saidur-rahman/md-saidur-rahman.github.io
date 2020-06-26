@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Md Saidur Rahman"
 title_separator          : "-"
 name                     : &name "Md Saidur Rahman"
-description              : &description "Post-doctoral Fellow at Polytechnique Montreal"
+description              : &description "Postdoctoral Fellow at Polytechnique Montreal"
 url                      : https://md-saidur-rahman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "md-saidur-rahman/md-saidur-rahman.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Md Saidur Rahman"
+  name             : "Md Saidur Rahman, PhD"
   avatar           : "saeed.png"
-  bio              : "Post-doctoral Fellow at Polytechnique Montreal"
+  bio              : "Postdoctoral Fellow at Polytechnique Montreal"
   location         : "Montreal, QC, Canada"
   employer         :
   pubmed           : 
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/saeed7834"
+  facebook         : "saeed7834"
   foursquare       :
   github           : "md-saidur-rahman"
   google_plus      :
@@ -174,19 +174,39 @@ kramdown:
 
 
 # Collections
+# collections:
+  # teaching:
+    # output: true
+    # permalink: /:collection/:path/
+  # publications:
+    # output: true
+    # permalink: /:collection/:path/
+  # portfolio:
+    # output: true
+    # permalink: /:collection/:path/
+  # talks:
+    # output: true
+    # permalink: /:collection/:path/
+
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  education:
     output: true
     permalink: /:collection/:path/
+  employment:
+    output: true
+    permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
+
+
+
 
 
 # Defaults
@@ -210,14 +230,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+      # path: ""
+      # type: teaching
+    # values:
+      # layout: single
+      # author_profile: true
+      # share: true
+      # comments: true
   # _publications
   - scope:
       path: ""
@@ -227,23 +247,50 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _education
+  - scope: 
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _employment
+  - scope: 
+      path: ""
+      type: employment
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _resources
+  - scope:
+      path: ""
+      type: resources
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+      # path: ""
+      # type: talks
+    # values:
+      # layout: talk
+      # author_profile: true
+      # share: true
 
 # Sass/SCSS
 sass:

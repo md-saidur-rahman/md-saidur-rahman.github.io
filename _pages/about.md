@@ -1,16 +1,16 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! This is Saidur Rahman. I am a Postdoctoral Fellow at [SwatLab](http://swat.polymtl.ca/) , [Polytechnique Montreal](https://www.polymtl.ca/en) where I am working with [Prof. Foutse Khomh](http://www.khomh.net/). I received my PhD in Software Engineering from [University of Saskatchewan](https://www.usask.ca/) under the supervision of [Prof. Chanchal Roy](https://clones.usask.ca/). My research interest includes Applied Machine Learning, Software Maintenance, Code Clones, Emperical Software Engineering, and Software Engineering for Machine Learning. 
+Hello! This is Saidur Rahman. I am a Postdoctoral Fellow at [SwatLab](http://swat.polymtl.ca/) , [Polytechnique Montreal](https://www.polymtl.ca/en) where I am working with [Prof. Foutse Khomh](http://www.khomh.net/). I received my PhD in Software Engineering from [University of Saskatchewan](https://www.cs.usask.ca/) under the supervision of [Prof. Chanchal Roy](https://clones.usask.ca/). My research interest includes Applied Machine Learning, Software Maintenance, Code Clones, Emperical Software Engineering, and Software Engineering for Machine Learning. 
 
-Currently, I am working as a postdoctoral research intern at [SAP Labs, Montreal](https://www.sap.com/canada/about.html). My current research is focused on the development of tools for automated feature engineering for machine learning application development. 
+Currently, I am working as a Postdoctoral Research Intern at [SAP Labs, Montreal](https://www.sap.com/canada/about.html). My current research is focused on the development of techniques and tools for automated feature engineering for machine learning application development. 
 
 <!---
 
