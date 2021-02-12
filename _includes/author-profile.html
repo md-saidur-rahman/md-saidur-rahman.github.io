@@ -23,7 +23,7 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li></a>https://www.google.com/maps/place/Pavillon+Lassonde+-+Polytechnique+Montr%C3%A9al/@45.5072518,-73.6289554,14.92z/data=!4m12!1m6!3m5!1s0x4cc9199aa84f6639:0x4e281f460caf4531!2sUniversity+of+Montreal!8m2!3d45.5056156!4d-73.6137592!3m4!1s0x4cc9194cb10303d5:0x791522d52613d2db!8m2!3d45.5048797!4d-73.6152454" c<i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><a href="https://www.google.com/maps/place/Pavillon+Lassonde+-+Polytechnique+Montr%C3%A9al/@45.5072518,-73.6289554,14.92z/data=!4m12!1m6!3m5!1s0x4cc9199aa84f6639:0x4e281f460caf4531!2sUniversity+of+Montreal!8m2!3d45.5056156!4d-73.6137592!3m4!1s0x4cc9194cb10303d5:0x791522d52613d2db!8m2!3d45.5048797!4d-73.6152454" target="_blank"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</a></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
