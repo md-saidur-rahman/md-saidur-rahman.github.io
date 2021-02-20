@@ -1,10 +1,10 @@
 ---
 title: "Are Multi-language Design Smells Fault-prone? An Empirical Study"
 collection: publications
-permalink: /publications/TOSEM2020
-date: 2020-10-28
-paperurl: "/files/emse-2020.pdf"
-citation: 'Mouna Abidi, <b>Md Saidur Rahman</b>, Moses Openja and Foutse Khomh &quot;Are Multi-language Design Smells Fault-prone? An Empirical Study&quot; <i>ACM Transactions on Software Engineering and Methodology (<b>TOSEM</b>)</i>. pages 59, 2020 (Accepted).'
+permalink: /publications/TOSEM2021
+date: 2021-02-10
+paperurl: "/files/tosem-2021.pdf"
+citation: 'Mouna Abidi, <b>Md Saidur Rahman</b>, Moses Openja and Foutse Khomh &quot;Are Multi-language Design Smells Fault-prone? An Empirical Study&quot; <i>ACM Transactions on Software Engineering and Methodology (<b>TOSEM</b>)</i>. Volume 30 (3), Article 29, pages 56, 2021.'
 ---
 <br>
 
