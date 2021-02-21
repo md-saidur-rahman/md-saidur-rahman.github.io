@@ -42,8 +42,8 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-        {% if post.citation and post.paperurl and post.doi %}
-          <p> {{ post.citation }} <a href="{{ base_path }}{{ post.paperurl }}" target="_blank"> <img src="{{ post.pdflogo }}" alt="Preprint" width="25" height="25"> </a> <a href="{{ post.doi }}" target="_blank"><img src="{{ post.publisher_icon }}" alt="Published" width="25" height="25"></a></p>
+        {% if page.citation and page.paperurl and page.doi %}
+          <p> {{ page.citation }} <a href="{{ base_path }}{{ page.paperurl }}" target="_blank"> <img src="{{ page.pdflogo }}" alt="Preprint" width="25" height="25"> </a> <a href="{{ page.doi }}" target="_blank"><img src="{{ page.publisher_icon }}" alt="Published" width="25" height="25"></a></p>
         {% elsif page.citation and page.paperurl %}
           <p>{{ page.citation }} <a href="{{ base_path}}{{ page.paperurl }}" target="_blank">[Preprint]</a></p>
         {% elsif page.citation %}
