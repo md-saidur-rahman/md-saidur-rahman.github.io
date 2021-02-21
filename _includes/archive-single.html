@@ -12,6 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -50,7 +51,9 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
+    {% if post.citation and post.paperurl and post.doi %}
+      <p> {{ post.citation }} <a href="{{ base_path }}{{ post.paperurl }}" target="_blank"> <img src="{{ post.pdflogo }}" alt="Preprint" width="30" height="30"> </a> <a href="{{ post.doi }}" target="_blank"><img src="{{ post.publisher_icon }}" alt="Published" width="30" height="30"></a></p>
+    {% elsif post.citation and post.paperurl %}
       <p> {{ post.citation }} <a href="{{ base_path }}{{ post.paperurl }}" target="_blank">[Preprint]</a></p>
     {% elsif post.citation %}
       <p>{{ post.citation }} </p>
