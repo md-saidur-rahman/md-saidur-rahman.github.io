@@ -94,8 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "saeed7834"
-  foursquare       :
+  facebook         :
   github           : "md-saidur-rahman"
   google_plus      :
   keybase          :
@@ -103,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "saidurrahman378"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5677-5927"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  dblp             :
 
 
 # Reading Files
