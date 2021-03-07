@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Note: This page aims to share links to miscellaneous third-party online resources that might be useful to students, researchers, and practitioners. The quality, authenticity, and availability of the listed resources rely solely on the original sources. 
+* Note: This page aims to share links to miscellaneous third-party online resources that might be useful to students, researchers, and practitioners. The quality, authenticity, and availability of the listed resources rely solely on the original sources. 
+
 <!-- Education 
 ====== -->
+<!-- 
 ### <i class="fas fa-fw fa-graduation-cap"></i> Polytechnique Montreal, Canada
 ---
 * <b> Postdoctoral Fellow</b>
@@ -19,7 +21,7 @@ Note: This page aims to share links to miscellaneous third-party online resource
 * Supervisor: <a href="http://www.khomh.net/" target="_blank">Prof. Foutse Khomh</a>
 * Duration: July 2018 - to date
 
-<!--   
+  
 ### <i class="fas fa-fw fa-graduation-cap"></i> Master of Science (MSc), Computer Science and Engineering
 --- 
 * <b>Islamic University, Bangladesh (2005)</b>
