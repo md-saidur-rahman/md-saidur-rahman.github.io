@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "saidurrahman378"
-  orcid            : "https://orcid.org/0000-0002-5677-5927"
+  orcid            : #"https://orcid.org/0000-0002-5677-5927"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -114,7 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             :
+  dblp             : "https://dblp.org/pid/r/MdSaidurRahman2.html"
 
 
 # Reading Files
