@@ -20,7 +20,7 @@ redirect_from:
     
 ### <i class="fas fa-fw fa-graduation-cap"></i> Master of Science (MSc), Computer Science and Engineering
 --- 
-* <b>Islamic University, Bangladesh (2005)</b>
+* <b>Islamic University, Bangladesh (2004)</b>
     * Concentration: Pattern Recognition
     * Thesis: Small Vocabulary Continuous Speech Recognition in Bangla Language
     * Supervisor: <a href="https://scholar.google.ca/citations?hl=en&user=inFThi0AAAAJ" target="_blank">Prof. Md Farukuzzaman Khan</a>
@@ -29,7 +29,7 @@ redirect_from:
 
 ### <i class="fas fa-fw fa-graduation-cap"></i> Bachelor of Science (Honors), Computer Science and Engineering
 --- 
-* <b>Islamic University, Bangladesh (2003)</b>
+* <b>Islamic University, Bangladesh (2002)</b>
     * Concentration: Pattern Recognition
     * Thesis: Recognition of Bengali Numerals Using Artificial Neural Network
     * Supervisor: <a href="https://www.researchgate.net/profile/Babul_Islam" target="_blank">Prof. Md Babul Islam</a>
