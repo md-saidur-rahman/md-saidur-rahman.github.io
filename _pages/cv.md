@@ -2,6 +2,12 @@
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
+ku_logo: "/images/ku-logo-big.png"
+sap_logo: "/images/sap-logo.png"
+usask_logo: "/images/usask_logo_only.png"
+poly_logo: "/images/poly_logo.png"
+tas_logo: "/images/tas_logo.png"
+iu_logo: "/images/iu-logo.png"
 author_profile: true
 redirect_from:
   - /resume
@@ -11,14 +17,14 @@ redirect_from:
 
 Work Experience 
 ======
-### <i class="fas fa-fw fa-graduation-cap"></i> Polytechnique Montreal, Canada
+### <img src="{{ page.poly_logo }}" alt="PolyMTL" width="35" height="35"> <a href="https://www.polymtl.ca/" target="_blank"> Polytechnique Montreal</a>, Canada
 ---
 * <b>Postdoctoral Fellow</b>
     * Affiliation: SWAT Lab, Computer Engineering and Software Engineering
     * Supervisor: <a href="http://www.khomh.net/" target="_blank">Prof. Foutse Khomh</a>
     * Duration: November 2017 - to date
   
-### <i class="fas fa-fw fa-graduation-cap"></i> SAP Labs Montreal, Canada
+### <img src="{{ page.sap_logo }}" alt="SAP" width="40" height="40"> <a href="https://www.sap.com/canada/about.html/" target="_blank"> SAP Labs</a> Montreal, Canada
 ---
 * <b>Machine Learning Research Intern</b><br>
 Working on collaborative research projects partnered by Polytechnique Montreal and SAP Labs Montreal.
@@ -28,13 +34,13 @@ Working on collaborative research projects partnered by Polytechnique Montreal a
 
     * Research Project 2: 
         * Duration: May 2019 - April 2020 
-        * R&D Focus:  We developed ML-based time-series forecasting models for automated availability forecasting and management of parking space occupancy.
+        * R&D Focus: We developed ML-based time-series forecasting models for automated availability forecasting and management of parking space occupancy.
 
     * Research Project 1: Automatic Detection and Correction of Transaction Errors Using Machine Learning
         * Duration: November 2017 - October 2018 
-        * R&D Focus:  We developed machine learning based solution for automatic detection and correction of errors in retail transactions.
+        * R&D Focus: We developed machine learning based solution for automatic detection and correction of errors in retail transactions.
 
-### <i class="fas fa-fw fa-graduation-cap"></i> TAS Inc, Montreal, Canada
+### <img src="{{ page.tas_logo }}" alt="TAS" width="35" height="35"> <a href="https://www.tas.ca/" target="_blank"> TAS Inc</a>, Montreal, Canada
 ---
 * <b>Machine Learning Research Intern</b><br>
 Worked on a collaborative research project partnered by Polytechnique Montreal and TAS Inc.
@@ -42,20 +48,18 @@ Worked on a collaborative research project partnered by Polytechnique Montreal a
         * Duration: November 2018 - April 2019
         * R&D Focus: We developed a prototype for automated resume analysis. We analyzed requirements and feasibility of ML-based automated ranking of candidates for recruitment process in Human Reseurce Management.
 
-### <i class="fas fa-fw fa-graduation-cap"></i> University of Saskatchewan, Canada
+### <img src="{{ page.usask_logo }}" alt="USASK" width="30" height="30"> <a href="https://www.cs.usask.ca/" target="_blank"> University of Saskatchewan</a>, Canada
 ---
-* <b> Graduate Teaching Assistant</b>
+* <b> Graduate Research and Teaching Assistant</b>
     * Affiliation: Department of Computer Science
     * Duration: September 2010 - April 2017
 
-### <i class="fas fa-fw fa-graduation-cap"></i> Khulna University, Bangladesh
+### <img src="{{ page.ku_logo }}" alt="KU" width="25" height="25"> <a href="https://www.ku.ac.bd/" target="_blank">Khulna University</a>, Bangladesh
 ---
 * <b>Assistant Professor</b>
     * Affiliation: Computer Science and Engineering Discipline
     * Duration: January 2006 - August 2010
 
-### <i class="fas fa-fw fa-graduation-cap"></i> Khulna University, Bangladesh
----
 * <b>Lecturer</b>
     * Affiliation: Computer Science and Engineering Discipline
     * Duration: December 2003 - December 2005

@@ -14,8 +14,6 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education 
-====== -->
 ### <img src="{{ page.poly_logo }}" alt="PolyMTL" width="35" height="35"> <a href="https://www.polymtl.ca/" target="_blank"> Polytechnique Montreal</a>, Canada
 ---
 * <b>Postdoctoral Fellow</b>
