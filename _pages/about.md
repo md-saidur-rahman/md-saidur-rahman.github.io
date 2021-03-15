@@ -2,16 +2,32 @@
 permalink: /
 title: "About Me"
 excerpt: "About Me"
+ku_logo: "/images/ku-logo-big.png"
+iu_logo: "/images/IU-logo.png"
+sap_logo: "/images/sap-logo.png"
+usask_logo: "/images/usask_usask_colour.png"
+poly_logo: "/images/poly_logo_text.png"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+{% include base_path %}
 Hello! This is Saidur Rahman. I am a Postdoctoral Fellow at <a href="https://swat.polymtl.ca/" target="_blank">SWAT Lab</a>, <a href="https://www.polymtl.ca/en" target="_blank">Polytechnique Montreal</a> where I am working with <a href="http://www.khomh.net/" target="_blank">Prof. Foutse Khomh</a>, and was co-supervised earlier by <a href="http://www.ptidej.net/Members/guehenyg" target="_blank">Prof. Yann-Gaël Guéhéneuc</a>. I received my PhD in Software Engineering from <a href="https://www.cs.usask.ca/" target="_blank">University of Saskatchewan</a> in 2018 under the supervision of <a href="https://clones.usask.ca/" target="_blank">Prof. Chanchal Roy</a>. My research interests include Machine Learning, Code Smells, Software Engineering for Machine Learning, Change Impact Analysis, and Mining Software Repositories. 
 
 Currently, I am working as a Postdoctoral Research Intern at <a href="https://www.sap.com/canada/about.html" target="_blank">SAP Labs, Montreal</a>. My current research is focused on the development of techniques and tools for automated feature engineering for machine learning application development. 
 
+<br> <br> <br> <br>
+
+<hr>
+<center>
+<img src="{{ page.usask_logo }}" alt="USASK" width="150" height="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ page.poly_logo }}" alt="POLY" width="150" height="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ page.sap_logo }}" alt="SAP" width="70" height="70">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ page.ku_logo }}" alt="KU" width="30" height="30">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ page.iu_logo }}" alt="IU" width="70" height="70">
+</center>
+<hr>
 <!---
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
