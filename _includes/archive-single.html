@@ -53,6 +53,8 @@
     
     {% if post.citation and post.paperurl and post.doi %}
       <p> {{ post.citation }} <a href="{{ base_path }}{{ post.paperurl }}" target="_blank"> <img src="{{ post.pdflogo }}" alt="Preprint" width="20" height="20"> </a> <a href="{{ post.doi }}" target="_blank"><img src="{{ post.publisher_icon }}" alt="Published" width="20" height="20"></a></p>
+    {% elsif post.citation and post.doi %}
+      <p> {{ post.citation }} <a href="{{ post.doi }}" target="_blank"><img src="{{ post.publisher_icon }}" alt="Published" width="20" height="20"></a></p>
     {% elsif post.citation and post.paperurl %}
       <p> {{ post.citation }} <a href="{{ base_path }}{{ post.paperurl }}" target="_blank">[Preprint]</a></p>
     {% elsif post.citation %}

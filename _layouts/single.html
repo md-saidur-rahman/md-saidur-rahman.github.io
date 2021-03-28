@@ -43,7 +43,9 @@ layout: default
         {% endif %}
 
         {% if page.citation and page.paperurl and page.doi %}
-          <p>{{ page.citation }} <a href="{{ base_path }}{{ page.paperurl }}" target="_blank"> <img src="{{ page.pdflogo }}" alt="Preprint" width="20" height="20"> </a> <a href="{{ page.doi }}" target="_blank"><img src="{{ page.publisher_icon }}" alt="Published" width="20" height="20"></a></p>
+          <p>{{ page.citation }} <a href="{{ base_path }}{{ page.paperurl }}" target="_blank"> <img src="{{ page.pdflogo }}" alt="Preprint" width="20" height="20"> </a><a href="{{ page.doi }}" target="_blank"><img src="{{ page.publisher_icon }}" alt="Published" width="20" height="20"></a></p>
+        {% elsif page.citation and page.doi %}
+          <p>{{ page.citation }} <a href="{{ page.doi }}" target="_blank"><img src="{{ page.publisher_icon }}" alt="Published" width="20" height="20"></a></p>
         {% elsif page.citation and page.paperurl %}
           <p>{{ page.citation }} <a href="{{ base_path}}{{ page.paperurl }}" target="_blank">[Preprint]</a></p>
         {% elsif page.citation %}

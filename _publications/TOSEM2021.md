@@ -8,7 +8,7 @@ doi: "https://doi.org/10.1145/3432690"
 publisher_icon: "/images/publisher/acmdl.png"
 pdflogo: "/images/preprint-pdf.png"
 citation: 'Mouna Abidi, <b>Md Saidur Rahman</b>, Moses Openja and Foutse Khomh, &quot;Are Multi-language Design Smells Fault-prone? An Empirical Study&quot;, <i>ACM Transactions on Software Engineering and Methodology (<b>TOSEM</b>)</i>. Volume 30 (3), Article 29, pages 56, 2021.'
----
+--- 
 <br>
 
 ## Abstract
