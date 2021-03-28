@@ -1,5 +1,5 @@
 ---
-title: "A New Approach of Extendable Multicast Routing Protocol in Mobile Adhoc Networks"
+title: "A New Approach of Extendable Multicast Routing Protocol in Mobile Ad Hoc Networks"
 collection: publications
 permalink: /publications/ICCIT2010
 date: 2010-12-23
@@ -7,7 +7,7 @@ paperurl:
 doi: "https://doi.org/10.1109/ICCITECHN.2010.5723840"
 publisher_icon: "/images/publisher/ieee.png"
 pdflogo: "/images/preprint-pdf.png"
-citation: <b>Md Saidur Rahman</b>, Saikat Mondal, Shushanto Kumar Ghosh, Md Mahbubur Rahman Ripon, &quot;A New Approach of Extendable Multicast Routing Protocol in Mobile Adhoc Networks &quot;, <i>IEEE 13th International Conference on Computer and Information Technology (<b>ICCIT</b>)</i>, pp. 120-124, 2010, Dhaka, Bangladesh. 
+citation: <b>Md Saidur Rahman</b>, Saikat Mondal, Shushanto Kumar Ghosh, Md Mahbubur Rahman Ripon, &quot;A New Approach of Extendable Multicast Routing Protocol in Mobile Ad Hoc Networks &quot;, <i>IEEE 13th International Conference on Computer and Information Technology (<b>ICCIT</b>)</i>, pp. 120-124, 2010, Dhaka, Bangladesh. 
 ---
 <br>
 
