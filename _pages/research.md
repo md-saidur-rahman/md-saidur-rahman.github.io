@@ -2,6 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
+wordcloud_file: "/images/my-wordcloud-new.png"
 author_profile: true
 redirect_from:
   - /research
@@ -13,13 +14,19 @@ redirect_from:
 ====== -->
 ### Research Interests
 ---
-* <b>Machine Learning</b>
+* <b>Machine Learning</b> 
 * <b>Code Smells</b>
-* <b>Software Engineering for Machine Learning</b>
+* <b>Software Engineering for Machine Learning</b> 
 * Change Impact Analysis
 * Mining Software Repositories
 
+---
+
+
+<img src="{{ page.wordcloud_file }}" alt="Wordcloud" width="300" height="150">
+
 <!--
+
 Publications
 ======
   <ul>{% for post in site.publications %}
