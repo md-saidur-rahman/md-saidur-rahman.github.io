@@ -7,7 +7,7 @@ paperurl:
 doi: "https://doi.org/10.1109/ICCIT.2009.164"
 publisher_icon: "/images/publisher/ieee.png"
 pdflogo: "/images/preprint-pdf.png"
-citation: <b>Md Saidur Rahman</b>, Aparna Saha, Snigdha Khanum, &quot;Multi-object Tracking in Video Sequences Based on Background Subtraction and SIFT Feature Matching&quot;, <i>IEEE 4th International Conference on Computer Sciences and Convergence Information Technology (<b>ICCIT</b>)</i>, pp. 457-462, 2009, Seoul, South Korea. 
+citation: <b>Md Saidur Rahman</b>, Aparna Saha and Snigdha Khanum, &quot;Multi-object Tracking in Video Sequences Based on Background Subtraction and SIFT Feature Matching&quot;, <i>IEEE 4th International Conference on Computer Sciences and Convergence Information Technology (<b>ICCIT</b>)</i>, pp. 457-462, 2009, Seoul, South Korea. 
 ---
 <br>
 
