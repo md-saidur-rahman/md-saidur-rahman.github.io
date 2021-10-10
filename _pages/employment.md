@@ -7,6 +7,7 @@ sap_logo: "/images/sap-logo.png"
 usask_logo: "/images/usask_logo_only.png"
 poly_logo: "/images/poly_logo.png"
 tas_logo: "/images/tas_logo.png"
+desjardins_logo: "/images/desjardins-logo.png"
 author_profile: true
 redirect_from:
   - /employment
@@ -14,19 +15,25 @@ redirect_from:
 
 {% include base_path %}
 
+### <img src="{{ page.desjardins_logo }}" alt="Desjardins" width="35" height="35"> <a href="https://www.desjardins.com/ca/about-us/desjardins/who-we-are/quick-facts/index.jsp" target="_blank"> Desjardins</a>, Canada
+---
+* <b>Senior Data Scientist (Research and Development)</b>
+    * Affiliation: Innovation, Partnership, and Advanced Analytics Practice Development 
+    * Duration: October 2021 - to date
+    
 ### <img src="{{ page.poly_logo }}" alt="PolyMTL" width="35" height="35"> <a href="https://www.polymtl.ca/" target="_blank"> Polytechnique Montreal</a>, Canada
 ---
 * <b>Postdoctoral Fellow</b>
     * Affiliation: SWAT Lab, Computer Engineering and Software Engineering
     * Supervisor: <a href="http://www.khomh.net/" target="_blank">Prof. Foutse Khomh</a>
-    * Duration: November 2017 - to date
+    * Duration: November 2017 - September 2021
   
 ### <img src="{{ page.sap_logo }}" alt="SAP" width="40" height="40"> <a href="https://www.sap.com/canada/about.html/" target="_blank"> SAP Labs</a> Montreal, Canada
 ---
 * <b>Machine Learning Research Intern</b><br>
 Working on collaborative research projects partnered by Polytechnique Montreal and SAP Labs Montreal.
     * Research Project 3: 
-        * Duration: July 2020 - Date 
+        * Duration: July 2020 - June 2021 
         * R&D Focus: We are developing a framework for automated feature engineering for machine learning application development.
 
     * Research Project 2: 
