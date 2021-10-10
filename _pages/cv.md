@@ -8,7 +8,7 @@ usask_logo: "/images/usask_logo_only.png"
 poly_logo: "/images/poly_logo.png"
 tas_logo: "/images/tas_logo.png"
 iu_logo: "/images/iu-logo.png"
-desjardins_logo: "/images/desjardins-logo.png"
+desjardins_logo: "/images/desjardins-logo-g.png"
 author_profile: true
 redirect_from:
   - /resume
@@ -47,7 +47,7 @@ Working on collaborative research projects partnered by Polytechnique Montreal a
         * Duration: November 2017 - October 2018 
         * R&D Focus: We developed machine learning based solution for automatic detection and correction of errors in retail transactions.
 
-### <img src="{{ page.tas_logo }}" alt="TAS" width="35" height="35"> <a href="https://www.tas.ca/" target="_blank"> TAS Inc</a>, Montreal, Canada
+### <img src="{{ page.tas_logo }}" alt="TAS" width="35" height="35"> <a href="https://www.tas.ca/" target="_blank"> TAS Inc</a>, Canada
 ---
 * <b>Machine Learning Research Intern</b><br>
 Worked on a collaborative research project partnered by Polytechnique Montreal and TAS Inc.
