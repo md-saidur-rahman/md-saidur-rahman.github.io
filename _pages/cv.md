@@ -87,7 +87,7 @@ Education
     * Thesis: Small Vocabulary Continuous Speech Recognition in Bangla Language
     * Supervisor: <a href="https://scholar.google.ca/citations?hl=en&user=inFThi0AAAAJ" target="_blank">Prof. Md Farukuzzaman Khan</a>
     * Position: <b>First</b> in First Class
-    * Award: <span style="color: red;">Chanchelor's Gold Medal</span>
+    * Award: <span style="color: red;">Chanchellor's Gold Medal</span>
 
 ### <i class="fas fa-fw fa-graduation-cap"></i> Bachelor of Science (Honors), Computer Science and Engineering
 --- 
