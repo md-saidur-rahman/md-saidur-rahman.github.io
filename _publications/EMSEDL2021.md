@@ -2,12 +2,12 @@
 title: "Clones in Deep Learning Code: What, Where, and Why?"
 collection: publications
 permalink: /publications/EMSEDL2021
-date: 2021-11-01
+date: 2022-04-08
 paperurl: "/files/emsedl-2021.pdf"
-doi: "https://arxiv.org/abs/2107.13614v1"
+doi: "https://doi.org/10.1007/s10664-021-10099-x"
 publisher_icon: "/images/publisher/springer.png"
 pdflogo: "/images/preprint-pdf.png"
-citation: 'Hadhemi Jebnoun, <b>Md Saidur Rahman</b>, Foutse Khomh, and Biruk Asmare Muse, &quot;Clones in Deep Learning Code: What, Where, and Why?&quot;, <i>Empirical Software Engineering (<b>EMSE</b>)</i>. (Accepted), pages 74, 2021.'
+citation: 'Hadhemi Jebnoun, <b>Md Saidur Rahman</b>, Foutse Khomh, and Biruk Asmare Muse, &quot;Clones in Deep Learning Code: What, Where, and Why?&quot;, <i>Empirical Software Engineering (<b>EMSE</b>)</i>, Volume 27, Article 84, pages 75, 2022.'
 ---
 <br>
 
