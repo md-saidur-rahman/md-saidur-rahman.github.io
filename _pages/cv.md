@@ -21,7 +21,7 @@ Work Experience
 ### <img src="{{ page.desjardins_logo }}" alt="Desjardins" width="35" height="35"> <a href="https://www.desjardins.com/ca/about-us/desjardins/who-we-are/quick-facts/index.jsp" target="_blank"> Desjardins</a>, Canada
 ---
 * <b>Senior Data Scientist (Research and Development)</b>
-    * Affiliation: Innovation, Partnership, and Advanced Analytics Practice Development 
+    * Affiliation: Research and Innovation Team, Center of Excellence in Advanced Analytics and Artificial Intelligence. 
     * Duration: October 2021 - to date
     
 ### <img src="{{ page.poly_logo }}" alt="PolyMTL" width="35" height="35"> <a href="https://www.polymtl.ca/" target="_blank"> Polytechnique Montreal</a>, Canada

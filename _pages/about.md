@@ -13,7 +13,7 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-Hello! This is Saidur Rahman. I am a Senior Data Scientist (Research and Development) at <a href="https://www.desjardins.com/ca/about-us/desjardins/who-we-are/quick-facts/index.jsp" target="_blank">Desjardins, Canada</a> where I am a member of the Innovation, Partnership and Advanced Analytics Practice Development Team. 
+Hello! This is Saidur Rahman. I am a Senior Data Scientist (Research and Development) at <a href="https://www.desjardins.com/ca/about-us/desjardins/who-we-are/quick-facts/index.jsp" target="_blank">Desjardins, Canada</a> where I am a member of the Research and Innovation team in the Center of Excellence in Advanced Analytics and Artificial Intelligence. 
 
 I received my PhD in Software Engineering from <a href="https://www.cs.usask.ca/" target="_blank">University of Saskatchewan</a> in 2018 under the supervision of <a href="https://clones.usask.ca/" target="_blank">Prof. Chanchal Roy</a>. I am passionate about Data Science, Machine Learning, Code Smells, Software Engineering for Machine Learning (SE4ML), and Mining Software Repositories. 
 
