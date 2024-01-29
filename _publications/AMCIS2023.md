@@ -5,7 +5,7 @@ permalink: /publications/AMCIS2023
 date: 2023-10-20
 paperurl: "/files/amcis-2023.pdf"
 doi: "https://aisel.aisnet.org/amcis2023/conf_theme/conf_theme/19/"
-publisher_icon: "/images/publisher/google-scholar.png"
+publisher_icon: ""
 pdflogo: "/images/preprint-pdf.png"
 citation: 'Thi My Hang Vu, Thang Le Dinh, <b>Md Saidur Rahman</b> and Annie Brasseur, &quot;Ontological Approach in Smart Service Systems: A Literature Review&quot;, <i>Americas Conference on Information Systems (<b>AMCIS</b>) 2023.'
 ---
